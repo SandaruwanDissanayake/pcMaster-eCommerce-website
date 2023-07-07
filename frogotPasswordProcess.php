@@ -25,7 +25,7 @@ $mail->IsSMTP();
 $mail->Host = 'smtp.gmail.com';
 $mail->SMTPAuth = true;
 $mail->Username = 'sandaruwandissanayake9@gmail.com';
-$mail->Password = 'nghdvvkmfgayduhd';
+$mail->Password = '*************';
 $mail->SMTPSecure = 'ssl';
 $mail->Port = 465;
 $mail->setFrom('sandaruwandissanayake9@gmail.com', 'Reset Password');
